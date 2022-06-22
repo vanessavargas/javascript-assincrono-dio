@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Atividade prática do Módulo de _Javascript Assíncrono_, que faz parte do Bootcamp da Spread na Digital Innovation One. O projeto consiste em uma página que carrega fotos aleatórias ao clicar em um botão. Como a api sugerida apresentou problemas, desta forma, utilizei uma api de cachorros, unindo uma frase motivacional e uma estilização.
+Atividade prática do Módulo de _Javascript Assíncrono_, que faz parte do Bootcamp da Spread na Digital Innovation One. O projeto consiste em uma página que carrega fotos aleatórias ao clicar em um botão. Como a api sugerida apresentou problemas, utilizei uma api de cachorros, unindo uma frase motivacional e uma estilização.
 
 ### Layout do projeto
 
