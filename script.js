@@ -4,7 +4,7 @@ const getDogs = async () => {
   try {
     const data = await fetch(BASE_URL);
     const json = await data.json();
-    return json.url;
+    return json.message;
   } catch (e) {
     console.log(e.message);
   }
